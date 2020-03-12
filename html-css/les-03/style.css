@@ -1,0 +1,44 @@
+
+body{
+    background: white;
+    margin: 0;
+}
+
+.article1{
+    border: 2px solid beige;
+    border-radius: 8px;
+    background-color: beige;
+}
+
+#ingredienten{
+    background-color:white; 
+}
+    
+.section1 {
+    background-color: white;
+    width: 250px;
+    }
+
+.section1 p {
+    color: black;
+    font-size: 15px;
+    font-style: italic;
+}
+
+.aside1{
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+}
+.aside1 p{
+    color: black;
+    font-size: 14px;
+    font-style: italic;
+    
+}
+.footer1 p{
+    color: black;
+    font-size: 9px;
+    font-style: italic;
+    float: right;
+}
