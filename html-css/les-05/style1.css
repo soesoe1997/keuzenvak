@@ -1,0 +1,81 @@
+/*Suraiya Jagmohan les 5 Challenge1-->*/
+body{
+    margin: 0;
+    background-image: url("eigenmondriaan.png");
+    background-repeat: no-repeat;
+}
+
+main{
+    width: 800px;
+    height: 800px;
+    background: black;
+    display: flex;
+    
+}
+
+.block{
+    display: flex;
+}
+
+#block1{
+    height: 800px;
+    width: 200px;
+    flex-direction: column;
+}
+
+#block1a{
+    background-color: yellow;
+    height: 400px;
+    width: 200px;
+    margin-bottom: 8px;
+}
+
+#block1b{
+    height: 400px;
+    width: 200px;
+    flex-direction: column;
+}
+
+#block1ba{
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 8px;
+    
+}
+
+#block1bb{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+
+#block2{
+    height:800px;
+    width:244px;
+    background:white;
+    margin-left: 8px;
+}
+
+#block3{
+    height: 800px;
+    width: 340px;
+    margin-left: 8px;
+    flex-direction: column;
+
+}
+
+#block3a{
+    background-color: red;
+    height: 400px;
+    width: 340px;
+    margin-bottom: 8px;
+
+}
+
+#block3b{
+    background-color: green;
+    height: 400px;
+    width: 340px;
+ 
+}
