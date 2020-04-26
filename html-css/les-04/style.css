@@ -65,7 +65,7 @@ p{
 
 /* stap1 */
 
-.stap1{
+#stap1{
     border-radius: 12px;
     width: 95%; 
     height: 400px;
@@ -94,7 +94,7 @@ p{
 
 /* stap2 */
 
-.stap2{
+#stap2{
   border-radius: 12px;
   width: 95%; 
   height: 400px;
